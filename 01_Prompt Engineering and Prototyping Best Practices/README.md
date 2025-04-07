@@ -46,7 +46,7 @@ Please evaluate your system on the following questions:
    - Aspect Tested: The machine is able to use logic to find and answer to arithmetic problems. All answers are steps.
 5. Rewrite the following paragraph in a professional, formal tone…
    - Aspect Tested: It should ask you for the paragraph that needs to be formalized at a certain tone but just provides steps on how to do this.
-
+https://www.loom.com/share/06441b29dd944fd7badcf9b9d8c824c5?sid=418e9d01-0a19-4e81-86e7-5cfc3a16bf36
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
 ##### 🚧 Advanced Build
