@@ -41,6 +41,7 @@ Run the notebook!
 - Make a simple diagram of the RAG process
 - Run the notebook
 - Record a Loom walking through the notebook, the questions in the notebook, and your addition!
+- ### https://www.loom.com/share/8f8b8e49ce744ef7aaf5e78fdb8f881c?sid=d7c18bca-8797-4a69-9a07-3342a7d9a201
 
 # Share 🚀
 - Show your App in a loom video and explain the diagram
