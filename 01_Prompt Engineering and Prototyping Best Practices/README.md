@@ -58,9 +58,3 @@ Please make adjustments to your application that you believe will improve the vi
 ### A Note on Vibe Checking
 
 "Vibe checking" is an informal term for cursory unstructured and non-comprehensive evaluation of LLM-powered systems. The idea is to loosely evaluate our system to cover significant and crucial functions where failure would be immediately noticeable and severe.
-
-In essence, it's a first look to ensure your system isn't experiencing catastrophic failure.
-
-##### 🧑‍🤝‍🧑❓ Discussion Question #1
-
-What are some limitations of vibe checking as an evaluation tool?
